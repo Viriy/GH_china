@@ -155,13 +155,13 @@ img{display:block;max-width:100%}
 .box_shadow{-webkit-box-shadow:0 0 .266667rem rgba(0,0,0,.15);-moz-box-shadow:0 0 .266667rem rgba(0,0,0,.15);box-shadow:0 0 .266667rem rgba(0,0,0,.15)}
 
 .sprite{background:url(../images/sprite.png) no-repeat;background-size:5.32rem;vertical-align: middle}
-.gh_time{height:0.426667rem;width:0.427rem;background-position:-0.533333rem -3.346667rem}
-.gh_i_income{height:0.52rem;width:0.482rem;background-position:-0.6rem -3.986667rem}
+.gh_time{height:0.436rem;width:0.427rem;background-position:-0.533333rem -3.346667rem}
+.gh_i_income{height:0.52rem;width:0.496rem;background-position:-0.6rem -3.986667rem}
 .gh_i_usernum{height:0.466667rem;width:0.48rem;background-position:0 -3.453333rem}
 .gh_exit{height:0.453333rem;width:0.48rem;background-position:0 -2.933333rem}
-.gh_i_integral{height:0.508rem;width:0.533333rem;background-position:0 -3.986667rem}
+.gh_i_integral{height:0.52rem;width:0.533333rem;background-position:0 -3.986667rem}
 .gh_view{height:0.346667rem;width:0.56rem;background-position:-0.546667rem -2.933333rem}
-.gh_back{height:0.573333rem;width:0.56rem;background-position:-4.573333rem -1.64rem;margin-top: -.286666rem;margin-left:-.28rem}
+.gh_back{height:0.58rem;width:0.56rem;background-position:-4.573333rem -1.64rem;margin-top: -.286666rem;margin-left:-.28rem}
 .gh_home{height:0.653333rem;width:0.64rem;background-position:-4.573333rem -2.28rem;margin-top: -.326666rem;margin-left: -.32rem}
 .gh_icon2-3{height:1.466667rem;width:1.306667rem;background-position:-3.2rem -1.64rem;}
 .gh_icon2-1{height:1.333333rem;width:1.333333rem;background-position:0 -1.533333rem;}
@@ -196,7 +196,7 @@ body{background:#f5f5f5}
 .icon_wrap span{width:1.76rem;height:1.573333rem;margin-bottom: 0.2rem;position: relative}
 .icon_wrap a{padding:0.533333rem 0;height:3.333333rem}
 
-.news_wrap h3{height: 0.94rem;overflow: hidden;line-height: 0.533333rem;margin-bottom:0.346667rem}
+.news_wrap h3{overflow: hidden;line-height: 0.533333rem;margin-bottom:0.346667rem}
 .news_wrap a{background:#fff;padding: 0.266667rem;margin-bottom:0.026667rem}
 .news_wrap img{width: 3.2rem;height: 2.133333rem;margin-right:0.346667rem}
 
