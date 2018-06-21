@@ -206,7 +206,7 @@ body{background:#f5f5f5}
 .swiper-pagination-bullet-active{background: #d6262d}
 
 .data_wrap{padding: 0 0.266667rem;justify-content: space-between}
-.data_wrap li{background: #fff;margin:0 0.001333rem;padding:.56rem 0;min-width: 2.88rem}
+.data_wrap li{background: #fff;margin:0 0.001333rem;padding:.56rem 0;min-width: 2.88rem;-webkit-box-shadow: 0 0.04rem 0.186667rem rgba(0,0,0,.1);-moz-box-shadow: 0 0.04rem 0.186667rem rgba(0,0,0,.1);-o-box-shadow: 0 0.04rem 0.186667rem rgba(0,0,0,.1);box-shadow: 0 0.04rem 0.186667rem rgba(0,0,0,.1)}
 .data_wrap p{color:#f08484;font-size: 0.64rem;margin-top: 0.346667rem}
 
 @media (min-width:540px){
