@@ -215,7 +215,7 @@ body{background:#f5f5f5}
 .table_wrap tbody tr{background:#fff}
 .table_wrap tbody tr:nth-child(odd){background:#fdeded}
 
-.tit1{color: #e32a29}
+.tit1{color: #e32a29;position: relative}
 .tit1 h1{font-weight: bold}
 .tit1 h1,.tit1 h2{font-size: 0.533333rem}
 .tit1 h2{opacity: .16;margin-top: -0.66rem;text-transform: uppercase}
