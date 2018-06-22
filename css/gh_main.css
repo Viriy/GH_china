@@ -160,7 +160,7 @@ img{display:block;max-width:100%}
 .gh_i_usernum{height:0.466667rem;width:0.48rem;background-position:0 -3.453333rem}
 .gh_exit{height:0.453333rem;width:0.48rem;background-position:0 -2.933333rem}
 .gh_i_integral{height:0.52rem;width:0.533333rem;background-position:0 -3.986667rem}
-.gh_view{height:0.346667rem;width:0.56rem;background-position:-0.546667rem -2.933333rem}
+.gh_view{height:0.356rem;width:0.576rem;background-position:-0.546667rem -2.933333rem}
 .gh_back{height:0.58rem;width:0.56rem;background-position:-4.573333rem -1.64rem;margin-top: -.286666rem;margin-left:-.28rem}
 .gh_home{height:0.653333rem;width:0.64rem;background-position:-4.573333rem -2.28rem;margin-top: -.326666rem;margin-left: -.32rem}
 .gh_icon2-3{height:1.466667rem;width:1.306667rem;background-position:-3.2rem -1.64rem;}
@@ -170,7 +170,7 @@ img{display:block;max-width:100%}
 .gh_icon2-2{height:1.386667rem;width:1.733333rem;background-position:-1.4rem -1.64rem;}
 .gh_icon1-2{height:1.573333rem;width:1.76rem;background-position:-1.533333rem 0;}
 .gh_logo{height:0.44rem;width:3.64rem;background-position:-1.173333rem -3.173333rem;left:0.533333rem;top: 50%;margin-top: -.22rem}
-.gh_title{height:0.906667rem;width:4.173333rem;background-position:-1.146667rem -3.68rem;}
+.gh_title{height:0.916rem;width:4.173333rem;background-position:-1.146667rem -3.68rem;}
 
 .center{-webkit-transform:translate(-50%, -50%);-moz-transform:translate(-50%, -50%);transform:translate( -50%, -50%)}
 
@@ -208,6 +208,22 @@ body{background:#f5f5f5}
 .data_wrap{padding: 0 0.266667rem;justify-content: space-between}
 .data_wrap li{background: #fff;margin:0 0.001333rem;padding:.56rem 0;min-width: 2.88rem;-webkit-box-shadow: 0 0.04rem 0.186667rem rgba(0,0,0,.1);-moz-box-shadow: 0 0.04rem 0.186667rem rgba(0,0,0,.1);-o-box-shadow: 0 0.04rem 0.186667rem rgba(0,0,0,.1);box-shadow: 0 0.04rem 0.186667rem rgba(0,0,0,.1)}
 .data_wrap p{color:#f08484;font-size: 0.64rem;margin-top: 0.346667rem}
+
+.table_wrap table{width:100%;border-collapse: separate;border-spacing:0}
+.table_wrap table th{padding:0.4rem .2rem;font-size: 0.4rem;color: #333;border-bottom: 1px solid #ddd}
+.table_wrap tbody td{padding:0.346667rem .2rem}
+.table_wrap tbody tr{background:#fff}
+.table_wrap tbody tr:nth-child(odd){background:#fdeded}
+
+.tit1{color: #e32a29}
+.tit1 h1{font-weight: bold}
+.tit1 h1,.tit1 h2{font-size: 0.533333rem}
+.tit1 h2{opacity: .16;margin-top: -0.66rem;text-transform: uppercase}
+
+
+.form_wrap li{border-radius:10rem;padding:0 .533333rem;background:#fff;margin:0 0.266667rem}
+.form_wrap input,.form_wrap select,.form_wrap textarea,button{margin:0;background:none;border:none}
+.form_wrap input,.form_wrap select{text-align:right;padding-right:0}
 
 @media (min-width:540px){
 	.h_header,.f_footer,.mui-content{width:540px}
